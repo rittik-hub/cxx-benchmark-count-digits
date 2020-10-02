@@ -67,7 +67,7 @@ arguments (inner loop counter=100, integer size=<all>).
 
 And then generates graphical representation of the collected data. As
 a time value it uses minimum of all time values for each (benchmark,
-integer size, digits).
+integer size and digits).
 
 Benchmarking results
 ====================
